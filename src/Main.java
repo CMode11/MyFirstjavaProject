@@ -14,5 +14,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         int jim = 78777;
+        String jime = "bobie";
     }
 }
